@@ -1,83 +1,166 @@
-# July 2025 Cohort Hackathon 1: Portfolio Challenge 🚀  
+# 🎮 Samuel Ndienye - Gaming Portfolio
 
-Welcome to the **PLP Academy Portfolio Challenge!** 🎉  
+A stunning, gaming-themed portfolio showcasing Samuel's unique journey from clinical medicine to software engineering. Built with pure HTML and CSS, featuring neon glow effects, animations, and a cyberpunk aesthetic perfect for hackathons.
 
-This README.md file provides all the details you need to successfully complete and submit your project. Let’s get started! 💻  
+## 🎯 About Samuel
 
----  
+**Samuel Ndienye** is a passionate software engineer transitioning from clinical medicine to technology. As a clinical officer with deep healthcare experience, he's now learning software engineering to create innovative solutions that bridge healthcare and technology.
 
-## 🌟 Project Overview  
-Your challenge is to build a **personal portfolio website** that showcases your skills, background, and achievements. Your portfolio should include:  
+### 🏥 Unique Background
+- **Clinical Officer Student** at Machakos KMTC (2021 - Present)
+- **Software Engineering Student** at Power Learn Project (June 2025 - Present)
+- **Goal**: Develop applications that improve patient care and streamline medical processes
 
-1. **Programming Languages**: List the programming languages you’re proficient in.  
-2. **About Section**: Share a brief introduction about yourself, your passion, and what drives you.  
-3. **Educational Background**: Provide details of your education and include a downloadable CV.  
-4. **Interests**: Share what excites you about tech and your professional interests.  
-5. **Projects**: Include links to your projects with brief descriptions.  
-6. **Contact Form**: Make it easy for collaborators or employers to reach you.  
+## ✨ Portfolio Features
 
----  
+### 🎮 Gaming Aesthetic
+- **Dark Theme** with neon green, pink, and blue glow effects
+- **Floating Animations** - Cards that gently move up and down
+- **Glowing Text** - Animated text with pulsing effects
+- **Interactive Hover Effects** - Buttons and cards that respond to mouse movement
+- **Custom Scrollbar** - Themed to match the gaming design
 
-## 🛠️ Guidelines  
+### 📱 Responsive Design
+- **Desktop**: Full layout with side-by-side sections
+- **Tablet**: Adjusted grid layouts
+- **Mobile**: Single-column layout with optimized spacing
 
-- **Skills**: Build your portfolio using HTML and CSS.  
-- **Individual Work**: This is a solo challenge—showcase your skills and creativity.
-- **Deskie Team Up**: This is you and your Deskie working together, merging your skills and creativity to come up with something great.
-- **Reference Material**: For additional details and helpful information, refer to [this document](https://docs.google.com/document/d/1v-F-tXa1dwV2w5oMkM2QzAuoFoQYZlOEuT5qeRKDTPA/edit?usp=sharing).  
-- **Submission**: Push your project to a **public GitHub repository** and complete the submission form.  
+### 🚀 Technical Highlights
+- **Pure HTML/CSS** - No JavaScript required, perfect for hackathons
+- **Fast Loading** - Optimized for quick deployment
+- **Cross-browser Compatible** - Works on Chrome, Firefox, Safari, Edge
 
----  
+## 📊 Samuel's Stats
 
-## 📅 Key Dates  
+- **3 Months** of Software Engineering Experience
+- **20 Practice Projects** completed
+- **100% Learning Commitment** to mastering new technologies
 
-**Start Date**: July 30th, 2025, 12:00 PM EAT
-**End Date**: Aug 3rd, 2025, 12:00 PM EAT
-**Award Ceremony**: Aug 8th, 2025, 5:00 PM EAT  
+## 🛠️ Skills & Technologies
 
----  
+### Programming Languages
+- **HTML5** (85% proficiency)
+- **CSS3** (80% proficiency)
+- **JavaScript** (70% proficiency)
+- **Python** (75% proficiency)
 
-## 💼 Example Portfolio Sections  
+### Tools & Technologies
+- **VS Code** (90% proficiency)
+- **PyCharm** (85% proficiency)
+- **AI Tools** for efficiency (80% proficiency)
+- **Git & GitHub** (75% proficiency)
 
-### 📝 About Me  
-Hi! I’m [Your Name], a passionate web developer with a love for creating functional and beautiful web experiences.  
+## 🎯 Featured Projects
 
-### 🎓 Educational Background  
-I hold a degree in [Your Degree] from [Your University].  
-**[Download My CV](link-to-your-cv)**  
+### 1. Hello World
+- **Description**: First HTML project - simple and clean introduction to web development
+- **Technologies**: HTML
+- **GitHub**: [View Project](https://github.com/Samuel-Ndienye/hello-world)
 
-### 💡 Interests  
-- **Web Development**: Exploring modern frameworks and best practices.  
-- **Tech Innovations**: Keeping up with emerging trends in technology.  
+### 2. The Burger Palace
+- **Description**: Restaurant website showcasing menu items and services with modern design
+- **Technologies**: HTML, CSS
+- **GitHub**: [View Project](https://github.com/Samuel-Ndienye/The-Burger-Palace)
 
-### 🛠️ Projects  
-1. **[Project 1](link-to-project1)**: A brief description of your project.  
-2. **[Project 2](link-to-project2)**: Another brief description.  
+### 3. Shoe Shop
+- **Description**: E-commerce website for footwear with product catalog and styling
+- **Technologies**: HTML, CSS
+- **GitHub**: [View Project](https://github.com/Samuel-Ndienye/shoe-shop)
 
-### 📬 Contact Me  
-Feel free to reach out! [Contact Form](link-to-your-contact-form)  
+## 📅 Experience Timeline
 
----  
+### 2025 - Present
+**Software Engineering Student** at Power Learn Project (PLP)
+- Learning full-stack development
+- Focus on creating healthcare technology solutions
 
-## 📁 Submission Instructions  
+### 2021 - Present
+**Clinical Officer Student** at Machakos KMTC
+- Studying clinical medicine
+- Focus on patient care and healthcare systems
 
-1. **Create Your Portfolio**: Build a complete portfolio website with all the required sections.  
-2. **Push to GitHub**: Upload your project to a **public GitHub repository**.  
-3. **Update README**: Ensure your README.md includes details about your portfolio.  
-4. **Submit Your Project**: Use [this form](https://forms.gle/DVvnaM5AzkXPpxYSA) to share your GitHub repo.  
+### 2017 - 2020
+**High School Education**
+- Completed secondary education
+- Focus on sciences and mathematics
 
----  
+## 📞 Contact Information
 
-## 🏆 Evaluation Criteria  
+- **Email**: samuelwanganga68@gmail.com
+- **Phone**: +254745625245
+- **Location**: Machakos, Kenya
+- **GitHub**: [@Samuel-Ndienye](https://github.com/Samuel-Ndienye)
+- **LinkedIn**: [Samuel Nganga](https://www.linkedin.com/in/samuel-nganga-328a81364?trk=contact-info)
 
-- **Creativity and Ingenuity (20%)**: Original ideas and standout features.  
-- **Code Quality (20%)**: Clean, readable, and efficient code.  
-- **Documentation (15%)**: Informative README and clear code comments.  
-- **Deployment (15%)**: Successfully hosted on a platform like GitHub Pages, Netlify or Vercel.  
-- **Development Process (15%)**: Effective collaboration and project management.  
-- **Technology Stack (15%)**: Usage of responsive, visually appealing tools.
+## 🚀 Quick Access
+
+### 📸 Portfolio Screenshots
+
+#### 🏠 Home/Hero Section
+![Hero Section](myscreenshots/1.png)
+*Samuel's introduction with glowing effects and gaming aesthetic*
+
+#### 📖 About Section
+![About Section](myscreenshots/2.png)
+*His unique healthcare-to-tech story and statistics*
+
+#### 🛠️ Skills Section
+![Skills Section](myscreenshots/3.png)
+*Programming languages and tools with animated progress bars*
+
+#### 🎯 Projects Section
+![Projects Section](myscreenshots/4.png)
+*Featured projects with gaming-style cards and hover effects*
+
+#### 📅 Experience Section
+![Experience Section](myscreenshots/5.png)
+*Timeline of his educational journey from healthcare to tech*
+
+#### 📞 Contact Section
+![Contact Section](myscreenshots/6.png)
+*Contact form and information with gaming-themed styling*
+
+#### 📱 Mobile Responsive
+![Mobile View](myscreenshots/7.png)
+*Portfolio optimized for mobile devices*
+
+### 📁 Download Files
+- `index.html` - Main portfolio structure
+- `styles.css` - Gaming-themed styling and animations
+- `README.md` - This documentation file
+- `Samuel_Ndienye_CV.pdf` - Professional CV (ready for download)
+
+## 🎨 Customization Guide
+
+### What You'll Find in the Files:
+
+#### `index.html` - Main Structure
+- **Hero Section**: Samuel's name, title, and introduction
+- **About Section**: His unique story and statistics
+- **Skills Section**: Programming languages and tools with progress bars
+- **Projects Section**: Featured projects with GitHub links
+- **Experience Section**: Timeline of his educational journey
+- **Contact Section**: Contact form and information
+
+#### `styles.css` - Styling & Effects
+- **Color Variables**: Easy-to-customize neon color scheme
+- **Animations**: Floating cards, glowing text, hover effects
+- **Responsive Design**: Mobile-first approach with breakpoints
+- **Gaming Elements**: Glow effects, custom scrollbar, progress bars
+
+#### `Samuel_Ndienye_CV.html` - Professional CV
+- **Print-optimized** design for PDF conversion
+- **Complete professional information**
+- **Healthcare-focused career objective**
+- **Skills and projects showcase**
 
 
----  
+## 📄 License
 
-We’re excited to see your unique creations! ✨  
-Happy coding, and good luck! 🍀  
+This portfolio template is free to use for personal and commercial projects. Attribution is appreciated but not required.
+
+---
+
+**Samuel's Portfolio** - Bridging healthcare and technology through innovative software solutions! 🏥💻✨
+
+*Ready for hackathon success! 🚀🎮* 

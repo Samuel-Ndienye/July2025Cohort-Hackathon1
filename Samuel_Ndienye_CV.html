@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samuel Ndienye - CV</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+        }
+        
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #00ff88;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .name {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #00ff88;
+            margin-bottom: 10px;
+        }
+        
+        .title {
+            font-size: 1.3rem;
+            color: #666;
+            margin-bottom: 15px;
+        }
+        
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            font-size: 0.9rem;
+        }
+        
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .section {
+            margin-bottom: 30px;
+        }
+        
+        .section-title {
+            font-size: 1.4rem;
+            font-weight: bold;
+            color: #00ff88;
+            border-bottom: 2px solid #00ff88;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+        
+        .about-text {
+            text-align: justify;
+            font-size: 1rem;
+            line-height: 1.8;
+        }
+        
+        .experience-item, .education-item {
+            margin-bottom: 20px;
+            padding-left: 20px;
+            border-left: 3px solid #f0f0f0;
+        }
+        
+        .experience-title, .education-title {
+            font-weight: bold;
+            font-size: 1.1rem;
+            color: #333;
+        }
+        
+        .experience-company, .education-institution {
+            font-weight: bold;
+            color: #00ff88;
+        }
+        
+        .experience-period, .education-period {
+            color: #666;
+            font-style: italic;
+        }
+        
+        .experience-description, .education-description {
+            margin-top: 5px;
+            text-align: justify;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+        
+        .skill-category {
+            background: #f9f9f9;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #00ff88;
+        }
+        
+        .skill-category h4 {
+            color: #00ff88;
+            margin-bottom: 10px;
+        }
+        
+        .skill-list {
+            list-style: none;
+        }
+        
+        .skill-list li {
+            margin-bottom: 5px;
+            padding-left: 15px;
+            position: relative;
+        }
+        
+        .skill-list li::before {
+            content: "▸";
+            color: #00ff88;
+            position: absolute;
+            left: 0;
+        }
+        
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+        
+        .project-item {
+            background: #f9f9f9;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #00ff88;
+        }
+        
+        .project-title {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        
+        .project-tech {
+            color: #00ff88;
+            font-size: 0.9rem;
+            margin-bottom: 8px;
+        }
+        
+        .project-description {
+            font-size: 0.9rem;
+            text-align: justify;
+        }
+        
+        @media print {
+            body {
+                padding: 0;
+                margin: 0;
+            }
+            
+            .section {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="name">Samuel Ndienye</div>
+        <div class="title">Software Engineer & Clinical Officer</div>
+        <div class="contact-info">
+            <div class="contact-item">
+                <span>📧</span>
+                <span>samuelwanganga68@gmail.com</span>
+            </div>
+            <div class="contact-item">
+                <span>📱</span>
+                <span>+254745625245</span>
+            </div>
+            <div class="contact-item">
+                <span>📍</span>
+                <span>Machakos, Kenya</span>
+            </div>
+            <div class="contact-item">
+                <span>🔗</span>
+                <span>github.com/Samuel-Ndienye</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">About Me</div>
+        <div class="about-text">
+            A passionate software engineer transitioning from clinical medicine to technology. As a clinical officer with deep healthcare experience, I'm now learning software engineering to create innovative solutions that bridge healthcare and technology. My goal is to develop applications that improve patient care and streamline medical processes. I bring a unique perspective combining healthcare knowledge with technical skills to solve real-world problems in the medical sector.
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Experience</div>
+        
+        <div class="experience-item">
+            <div class="experience-title">Software Engineering Student</div>
+            <div class="experience-company">Power Learn Project (PLP)</div>
+            <div class="experience-period">June 2025 - Present</div>
+            <div class="experience-description">
+                Learning full-stack development with focus on creating healthcare technology solutions. Developing skills in HTML, CSS, JavaScript, and Python while working on practical projects that demonstrate real-world applications.
+            </div>
+        </div>
+        
+        <div class="experience-item">
+            <div class="experience-title">Clinical Officer Student</div>
+            <div class="experience-company">Machakos KMTC</div>
+            <div class="experience-period">2021 - Present</div>
+            <div class="experience-description">
+                Studying clinical medicine with focus on patient care and healthcare systems. Gaining hands-on experience in medical procedures, patient management, and understanding healthcare workflows that can be optimized through technology.
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Education</div>
+        
+        <div class="education-item">
+            <div class="education-title">Clinical Medicine</div>
+            <div class="education-institution">Machakos KMTC</div>
+            <div class="education-period">2021 - Present</div>
+            <div class="education-description">
+                Comprehensive study of clinical medicine, patient care, and healthcare systems management.
+            </div>
+        </div>
+        
+        <div class="education-item">
+            <div class="education-title">Secondary Education</div>
+            <div class="education-institution">High School</div>
+            <div class="education-period">2017 - 2020</div>
+            <div class="education-description">
+                Completed secondary education with focus on sciences and mathematics, providing strong analytical foundation.
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Skills & Technologies</div>
+        <div class="skills-grid">
+            <div class="skill-category">
+                <h4>Programming Languages</h4>
+                <ul class="skill-list">
+                    <li>HTML5 (85% proficiency)</li>
+                    <li>CSS3 (80% proficiency)</li>
+                    <li>JavaScript (70% proficiency)</li>
+                    <li>Python (75% proficiency)</li>
+                </ul>
+            </div>
+            
+            <div class="skill-category">
+                <h4>Tools & Technologies</h4>
+                <ul class="skill-list">
+                    <li>VS Code (90% proficiency)</li>
+                    <li>PyCharm (85% proficiency)</li>
+                    <li>AI Tools for efficiency (80%)</li>
+                    <li>Git & GitHub (75% proficiency)</li>
+                </ul>
+            </div>
+            
+            <div class="skill-category">
+                <h4>Healthcare Knowledge</h4>
+                <ul class="skill-list">
+                    <li>Patient Care Systems</li>
+                    <li>Medical Procedures</li>
+                    <li>Healthcare Workflows</li>
+                    <li>Clinical Documentation</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Featured Projects</div>
+        <div class="projects-grid">
+            <div class="project-item">
+                <div class="project-title">Hello World</div>
+                <div class="project-tech">HTML</div>
+                <div class="project-description">
+                    First HTML project - simple and clean introduction to web development, demonstrating basic HTML structure and formatting.
+                </div>
+            </div>
+            
+            <div class="project-item">
+                <div class="project-title">The Burger Palace</div>
+                <div class="project-tech">HTML, CSS</div>
+                <div class="project-description">
+                    Restaurant website showcasing menu items and services with modern design, responsive layout, and user-friendly interface.
+                </div>
+            </div>
+            
+            <div class="project-item">
+                <div class="project-title">Shoe Shop</div>
+                <div class="project-tech">HTML, CSS</div>
+                <div class="project-description">
+                    E-commerce website for footwear with product catalog and styling, demonstrating e-commerce design principles and user experience.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Career Objective</div>
+        <div class="about-text">
+            To leverage my unique combination of healthcare knowledge and software engineering skills to develop innovative technology solutions that improve patient care, streamline medical processes, and bridge the gap between healthcare and technology. I aim to create applications that make healthcare more accessible, efficient, and user-friendly for both medical professionals and patients.
+        </div>
+    </div>
+</body>
+</html> 
