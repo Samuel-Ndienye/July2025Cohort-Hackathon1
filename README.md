@@ -94,7 +94,7 @@ A stunning, gaming-themed portfolio showcasing Samuel's unique journey from clin
 
 ## 🚀 Quick Access
 
-### 📸 Portfolio Deploymrnt Link
+### 📸 Portfolio Deployment Link
 https://shiny-manatee-834cf5.netlify.app/
 
 
