@@ -94,35 +94,9 @@ A stunning, gaming-themed portfolio showcasing Samuel's unique journey from clin
 
 ## 🚀 Quick Access
 
-### 📸 Portfolio Screenshots
+### 📸 Portfolio Deploymrnt Link
+https://shiny-manatee-834cf5.netlify.app/
 
-#### 🏠 Home/Hero Section
-![Hero Section](myscreenshots/1.png)
-*Samuel's introduction with glowing effects and gaming aesthetic*
-
-#### 📖 About Section
-![About Section](myscreenshots/2.png)
-*His unique healthcare-to-tech story and statistics*
-
-#### 🛠️ Skills Section
-![Skills Section](myscreenshots/3.png)
-*Programming languages and tools with animated progress bars*
-
-#### 🎯 Projects Section
-![Projects Section](myscreenshots/4.png)
-*Featured projects with gaming-style cards and hover effects*
-
-#### 📅 Experience Section
-![Experience Section](myscreenshots/5.png)
-*Timeline of his educational journey from healthcare to tech*
-
-#### 📞 Contact Section
-![Contact Section](myscreenshots/6.png)
-*Contact form and information with gaming-themed styling*
-
-#### 📱 Mobile Responsive
-![Mobile View](myscreenshots/7.png)
-*Portfolio optimized for mobile devices*
 
 ### 📁 Download Files
 - `index.html` - Main portfolio structure
