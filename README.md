@@ -39,10 +39,10 @@ A stunning, gaming-themed portfolio showcasing Samuel's unique journey from clin
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
-- **HTML5** (85% proficiency)
-- **CSS3** (80% proficiency)
-- **JavaScript** (70% proficiency)
-- **Python** (75% proficiency)
+- **HTML5** (65% proficiency)
+- **CSS3** (50% proficiency)
+- **JavaScript** (40% proficiency)
+- **Python** (55% proficiency)
 
 ### Tools & Technologies
 - **VS Code** (90% proficiency)
